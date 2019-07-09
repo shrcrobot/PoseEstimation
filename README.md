@@ -1,10 +1,12 @@
 # Object Pose Estimation with Point Cloud Data for Robot Grasping
 
 Xingfang Wu, Tao Zhang, Xihong Wu, Dingsheng Luo*
+
 From: Peking University, Beijing, 100871, China
+
 Email: {wu.xf, tao zhang, xhwu, dsluo}@pku.edu.cn
 
-submitted to [Humanoids 2019](http://humanoids2019.loria.fr/) : The 2019 IEEE-RAS International Conference on Humanoid Robots Toronto, Canada, on October 15-17, 2019.
+submitted to [Humanoids 2019](http://humanoids2019.loria.fr/) - The 2019 IEEE-RAS International Conference on Humanoid Robots
 
 #### Codes
 
