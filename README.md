@@ -1,12 +1,5 @@
 # Object Pose Estimation with Point Cloud Data for Robot Grasping
 
-Xingfang Wu, Tao Zhang, Dingsheng Luo*
-
-From: Peking University, Beijing, 100871, China
-
-Email: {wu.xf, tao zhang, xhwu, dsluo}@pku.edu.cn
-
-submitted to [ICRA 2020](https://www.icra2020.org//) - The 2020 International Conference on Robotics and Automation (ICRA)
 
 #### Codes
 
